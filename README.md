@@ -7,8 +7,6 @@ Full Stack Developer
 I am a full stack developer with an ambition to continue learning.
 
 * 🌍  I'm based in London, Ontario
-* 🖥️  See my portfolio at [MyPortfolio](http://chansoohan-portfolio.netlify.app)
-* 🧠  I'm learning SQL
 
 ### Skills
 
